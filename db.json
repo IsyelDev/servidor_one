@@ -1,49 +1,102 @@
 {
-  "profesores": [
+  "tripulantes": [
     { 
-      
-      "id": "a82a",
-      "nombre": "Sergie",
-      "apellido": "Code",
-      "materias": [{"nombre": "NodeJS desde Cero"},
-        {"nombre": "ReactJS desde Cero"},
-        {"nombre": "JavaScript desde Cero"},
-        {"nombre": "Java desde Cero"},
-        {"nombre": "TypeScript desde Cero"}
-      
+      "id": "luffy001",
+      "nombre": "Monkey D. Luffy",
+      "apellido": "Pirata",
+      "habilidades": [
+        {"nombre": "Gomu Gomu no Mi"},
+        {"nombre": "Haki de Observación"},
+        {"nombre": "Haki de Armamento"},
+        {"nombre": "Haki del Rey"}
       ]
-},
-
-    {"id": "bb43",
-     "nombre": "Camila",
-     "apellido": "Dev",
-     "materias": [{"nombre": "Química"},
-     {"nombre": "Biología"}]
-     
-     }
-    
-    ],
-
-  "alumnos": [
-    {
-    "nombre": "María",
-    "apellido": "Rodriguez",
-    "promedio": 8.2,
-    "id": "8075"
     },
     {
-    "nombre": "Alfonsina",
-    "apellido": "Storni",
-    "promedio": 10,
-    "id": "575e"
+      "id": "zoro002",
+      "nombre": "Roronoa Zoro",
+      "apellido": "Espadachín",
+      "habilidades": [
+        {"nombre": "Santoryu"},
+        {"nombre": "Haki de Observación"},
+        {"nombre": "Haki de Armamento"}
+      ]
     },
     {
-      "id": "2c5f",
-      "nombre": "George",
-      "apellido": "Orwell",
-      "promedio": 10
+      "id": "nami003",
+      "nombre": "Nami",
+      "apellido": "Navegante",
+      "habilidades": [
+        {"nombre": "Clima-Tact"},
+        {"nombre": "Navegación experta"}
+      ]
     }
   ],
+
+  "enemigos": [
+    {
+      "id": "kaido001",
+      "nombre": "Kaido",
+      "apellido": "De la Bestia",
+      "habilidades": [
+        {"nombre": "Zoan mitológica: Uo Uo no Mi"},
+        {"nombre": "Haki de Conquista"}
+      ]
+    },
+    {
+      "id": "bigmom002",
+      "nombre": "Big Mom",
+      "apellido": "Charlotte Linlin",
+      "habilidades": [
+        {"nombre": "Soru Soru no Mi"},
+        {"nombre": "Haki de Conquista"}
+      ]
+    },
+    {
+      "id": "blackbeard003",
+      "nombre": "Marshall D. Teach",
+      "apellido": "Barbanegra",
+      "habilidades": [
+        {"nombre": "Yami Yami no Mi"},
+        {"nombre": "Gura Gura no Mi"}
+      ]
+    }
+  ],
+
+  "almirantes": [
+    {
+      "id": "akainu001",
+      "nombre": "Sakazuki",
+      "apellido": "Akainu",
+      "rango": "Almirante de la Flota",
+      "habilidades": [
+        {"nombre": "Magu Magu no Mi"},
+        {"nombre": "Haki de Armamento"},
+        {"nombre": "Haki de Conquista"}
+      ]
+    },
+    {
+      "id": "kizaru002",
+      "nombre": "Borsalino",
+      "apellido": "Kizaru",
+      "rango": "Almirante",
+      "habilidades": [
+        {"nombre": "Pika Pika no Mi"},
+        {"nombre": "Haki de Observación"}
+      ]
+    },
+    {
+      "id": "aokiji003",
+      "nombre": "Kuzan",
+      "apellido": "Aokiji",
+      "rango": "Almirante",
+      "habilidades": [
+        {"nombre": "Hie Hie no Mi"},
+        {"nombre": "Haki de Observación"},
+        {"nombre": "Haki de Armamento"}
+      ]
+    }
+  ],
+
   "cursos": [
     {
       "nombre": "NodeJS desde Cero",
