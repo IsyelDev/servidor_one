@@ -6,7 +6,7 @@ Este repositorio pertenece al curso de **NODE.JS desde Cero** que puedes ver aqu
 
 ## Uso
 
-1. Clona el repositorio haciendo `git clone https://github.com/sergiecode/one_piece_json_server_db`
+1. Clona el repositorio haciendo `git clone https://github.com/IsyelDev/servidor_one.git`
 2. Abre el proyecto en tu editor de código favorito
 3. Instala los paquetes y módulos requeridos: `npm install`
 4. Levanta el servidor con el comando: `npm start`
